@@ -1,0 +1,2 @@
+# webpack_starter
+Railsを組み込むことを想定したスターターキット
